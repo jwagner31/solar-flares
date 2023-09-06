@@ -1,0 +1,3273 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>
+   Top 50 solar flares | Solar activity | SpaceWeatherLive.com
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
+  <meta content="On this page you will find an overview of the strongest solar flares since June 1996 together with links to more information in our archive and a v..." name="description"/>
+  <meta content="SpaceWeatherLive, Live, Aurora, Auroral activity, Aurora Australis, Aurora Borealis, northern lights, Solar wind, Kp-index, Space Weather, Space Weather Updates, Aurora forecast, Space Weather Alerts, Solar activity, Solar flares, Sunspots, Aurora alert, Auroral activity, The Sun, SDO, STEREO, EPAM, DSCOVR" name="keywords"/>
+  <!-- Facebook meta -->
+  <meta content="https://spaceweatherlive.com/en/solar-activity/top-50-solar-flares.html" property="og:url"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Top 50 solar flares | Solar activity" property="og:title">
+   <meta content="On this page you will find an overview of the strongest solar flares since June 1996 together with links to more information in our archive and a video (if available) of the event. This page is updated daily." property="og:description"/>
+   <meta content="https://www.spaceweatherlive.com/images/share_headers/default.jpg" property="og:image"/>
+   <meta content="SpaceWeatherLive.com" property="og:site_name"/>
+   <meta content="344241918924880" property="fb:app_id"/>
+   <meta content="615289796" property="fb:admins"/>
+   <meta content="100002307882367" property="fb:admins"/>
+   <!-- Twitter Card meta -->
+   <meta content="summary_large_image" name="twitter:card"/>
+   <meta content="@_SpaceWeather_" name="twitter:site"/>
+   <meta content="@_SpaceWeather_" name="twitter:creator"/>
+   <meta content="https://spaceweatherlive.com/en/solar-activity/top-50-solar-flares.html" name="twitter:url"/>
+   <meta content="Top 50 solar flares | Solar activity" name="twitter:title"/>
+   <meta content="On this page you will find an overview of the strongest solar flares since June 1996 together with links to more information in our archive and a video (if available) of the event. This page is upd..." name="twitter:description"/>
+   <meta content="https://www.spaceweatherlive.com/images/share_headers/default.jpg" name="twitter:image:src"/>
+   <link href="/rss_news.xml" rel="alternate" title="RSS news" type="application/rss+xml"/>
+   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+   <meta content="yes" name="mobile-web-app-capable"/>
+   <meta content="rgb(52, 58, 64)" name="theme-color"/>
+   <meta content="dark light" name="color-scheme"/>
+   <meta content="no" name="apple-mobile-web-app-capable"/>
+   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+   <meta content="app-id=com.spaceweatherlive.app" name="google-play-app"/>
+   <meta content="app-id=1435501021, app-argument=https://www.spaceweatherlive.com/" name="apple-itunes-app"/>
+   <link href="https://cdn.onesignal.com" rel="dns-prefetch"/>
+   <link href="https://code.highcharts.com" rel="dns-prefetch"/>
+   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-180x180.png" rel="shortcut icon" type="image/png"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon.png" rel="apple-touch-icon"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+   <link href="/templates/SWL12/images/SWL/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+   <link href="/templates/SWL12/css/SWLTemplate.css?v5.3.0a" rel="stylesheet"/>
+   <script src="/vendor/Bootstrap/5.3.0/dist/js/bootstrap.bundle.min.js">
+   </script>
+   <script src="/vendor/Fancyapps/5.0.19/fancybox/fancybox.umd.js">
+   </script>
+   <script src="/templates/SWL12/js/scripts.min.js?v3a">
+   </script>
+   <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js">
+   </script>
+   <script async="" src="https://cdn.fuseplatform.net/publift/tags/2/3239/fuse.js">
+   </script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-25HHLX0QL3">
+   </script>
+   <script>
+    window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-25HHLX0QL3');
+   </script>
+  </meta>
+ </head>
+ <body onload="startTime();">
+  <div id="sbbhscc" style="display:none">
+  </div>
+  <script type="text/javascript">
+   var sbbvscc='';
+            var sbbgscc='';
+            function genPid() {return String.fromCharCode(110)+String.fromCharCode(119) ; };
+  </script>
+  <div id="sbbfrcc" style="position: absolute; top: -10px; left: 30px; font-size:1px">
+  </div>
+  <script type="text/javascript">
+   (function(XHR){var open=XHR.prototype.open;var send=XHR.prototype.send;var parser=document.createElement('a');XHR.prototype.open=function(method, url, async, user, pass){if(typeof async=='undefined'){async=true;}parser.href=url;if(parser.host==''){parser.href=parser.href;}this.ajax_hostname=parser.hostname;open.call(this, method, url, async, user, pass);};XHR.prototype.send=function(data){if(location.hostname==this.ajax_hostname)this.setRequestHeader("X-MOD-SBB-CTYPE", "xhr");send.call(this, data);}})(XMLHttpRequest);if(typeof(fetch)!="undefined"){var nsbbfetch=fetch;fetch=function(url, init){if(typeof(url)==="object" && typeof(url.url)==="string"){init={method: url.method, mode: url.mode, cache: url.cache, credentials: url.credentials, headers: url.headers, body: url.body};url=url.url;}function sbbSd(url, domain){var parser=document.createElement('a');parser.href=url;if(parser.host==''){parser.href=parser.href;}return parser.hostname==location.hostname;}if(sbbSd(url, document.domain)){init=typeof init !=='undefined' ? init :{};if(typeof(init.headers)==="undefined"){init.headers={};}init.headers['X-MOD-SBB-CTYPE']='fetch';}return nsbbfetch(url, init);};}function sbbgc(check_name){var start=document.cookie.indexOf(check_name+"=");var oVal='';var len=start+check_name.length+1;if((!start)&&(document.cookie.substring(0,check_name.length)!=check_name)){oVal='';}else if(start==-1){oVal='';}else{var end=document.cookie.indexOf(';',len);if(end==-1)end=document.cookie.length;var oVal=document.cookie.substring(len,end);};return oVal;}function addmg(inm,ext){var primgobj=document.createElement('IMG');primgobj.src=window.location.protocol+"//"+window.location.hostname+(window.location.port && window.location.port!=80 ? ':'+window.location.port: '')+"/sbbi/?sbbpg="+inm+(ext?"&"+ext:"");var sbbDiv=document.getElementById('sbbfrcc');sbbDiv.appendChild(primgobj);};function addprid(prid){var oldVal=sbbgc("PRLST");if((oldVal.indexOf(prid)==-1)&&(oldVal.split('/').length<5)){if(oldVal!=''){oldVal+='/';}document.cookie='PRLST='+oldVal+escape(prid)+';path=/; SameSite=Lax;';}}var sbbeccf=function(){this.sp3="jass";this.sf1=function(vd){return sf2(vd)+32;};var sf2=function(avd){return avd*12;};this.sf4=function(yavd){return yavd+2;};var strrp=function(str, key, value){if(str.indexOf('&'+key+'=')> -1 || str.indexOf(key+'=')==0){var idx=str.indexOf('&'+key+'=');if(idx==-1)idx=str.indexOf(key+'=');var end=str.indexOf('&', idx+1);var newstr;if(end !=-1)newstr=str.substr(0, idx)+str.substr(end+(idx ? 0 : 1))+'&'+key+'='+value;else newstr=str.substr(0, idx)+'&'+key+'='+value;return newstr;}else return str+'&'+key+'='+value;};var strgt=function(name, text){if(typeof text !='string')return "";var nameEQ=name+"=";var ca=text.split(/[;&]/);for(var i=0;i < ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1, c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length, c.length);}return "";};this.sfecgs={sbbgh:function(){var domain=document.location.host;if(domain.indexOf('www.')==0)domain=domain.replace('www.', '');return domain;}, f:function(name, value){var fv="";if(window.globalStorage){var host=this.sbbgh();try{if(typeof(value)!="undefined")globalStorage[host][name]=value;else{fv=globalStorage[host][name];if(typeof(fv.toString)!="undefined")fv=fv.toString();}}catch(e){}}return fv;}, name:"sbbrf"};this.sfecls={f:function(name, value){var fv="";try{if(window.localStorage){if(typeof(value)!="undefined")localStorage.setItem(name, value);else{fv=localStorage.getItem(name);if(typeof(fv.toString)!="undefined")fv=fv.toString();}}}catch(e){}return fv;}, name:"sbbrf"};this.sbbcv=function(invl){try{var invalArr=invl.split("-");if(invalArr.length>1){if(invalArr[0]=="A"||invalArr[0]=="D"){invl=invalArr[1];}else invl="";}if(invl==null||typeof(invl)=="undefined"||invl=="falseImgUT"||invl=="undefined"||invl=="null"||invl!=encodeURI(invl))invl="";if(typeof(invl).toLowerCase()=="string")if(invl.length>20)if(invl.substr(0,2)!="h4")invl="";}catch(ex){invl="";}return invl;};this.sbbsv=function(fv){for(var elm in this){if(this[elm].name=="sbbrf"){this[elm].f("altutgv2",fv);}}document.cookie="UTGv2="+fv+';expires=Mon, 04-Mar-24 01:23:40 GMT;path=/; SameSite=Lax;';};this.sbbgv=function(){var valArr=Array();var currVal="";for(var elm in this){if(this[elm].name=="sbbrf"){currVal=this[elm].f("altutgv2");currVal=this.sbbcv(currVal);if(currVal!="")valArr[currVal]=(typeof(valArr[currVal])!="undefined"?valArr[currVal]+1:1);}}var lb=0;var fv="";for(var val in valArr){if(valArr[val]>lb){fv=val;lb=valArr[val]}}if(fv=="")fv=sbbgc("UTGv2");fv=this.sbbcv(fv);if(fv!="")this.sbbsv(fv);else this.sbbsv("D-h4aa9d076a400e43d877d63da248daf87940");return fv;};};function m2vr(m1,m2){var i=0;var rc="";var est="ghijklmnopqrstuvwyz";var rnum;var rpl;var charm1=m1.charAt(i);var charm2=m2.charAt(i);while(charm1!=""||charm2!=""){rnum=Math.floor(Math.random()* est.length);rpl=est.substring(rnum,rnum+1);rc+=(charm1==""?rpl:charm1)+(charm2==""?rpl:charm2);i++;charm1=m1.charAt(i);charm2=m2.charAt(i);}return rc;}function sbbls(prid){try{var eut=sbbgc("UTGv2");window.sbbeccfi=new sbbeccf();window.sbbgs=sbbeccfi.sbbgv();if(eut!=sbbgs && sbbgs!="" && typeof(sbbfcr)=="undefined"){addmg('utMedia',"vii="+m2vr("9bc175603d41bc2cf82076cef9901cee",sbbgs));}var sbbiframeObj=document.createElement('IFRAME');var dfx=new Date();sbbiframeObj.id='SBBCrossIframe';sbbiframeObj.title='SBBCrossIframe';sbbiframeObj.tabindex='-1';sbbiframeObj.lang='en';sbbiframeObj.style.visibility='hidden';sbbiframeObj.setAttribute('aria-hidden', 'true');sbbiframeObj.style.border='0px';if(document.all){sbbiframeObj.style.position='absolute';sbbiframeObj.style.top='-1px';sbbiframeObj.style.height='1px';sbbiframeObj.style.width='28px';}else{sbbiframeObj.style.height='1px';sbbiframeObj.style.width='0px';}sbbiframeObj.scrolling="NO";sbbiframeObj.src=window.location.protocol+"//"+window.location.hostname+(window.location.port && window.location.port!=80 ? ':'+window.location.port: '')+'/sbbi/?sbbpg=sbbShell&gprid='+prid + '&sbbgs='+sbbgs+'&ddl='+(Math.round(dfx.getTime()/1000)-1693963420)+'';var sbbDiv=document.getElementById('sbbfrcc');sbbDiv.appendChild(sbbiframeObj);}catch(ex){;}}try{var y=unescape(sbbvscc.replace(/^<\!\-\-\s*|\s*\-\->$/g,''));document.getElementById('sbbhscc').innerHTML=y;var x=unescape(sbbgscc.replace(/^<\!\-\-\s*|\s*\-\->$/g,''));}catch(e){x='function genPid(){return "jser";}';}try{if(window.gprid==undefined)document.write('<'+'script type="text/javascri'+'pt">'+x+"var gprid=genPid();addprid(gprid);sbbls(gprid);<"+"/script>");}catch(e){addprid("dwer");}
+  </script>
+  <script>
+   window.fbAsyncInit = function() {FB.init({appId:'344241918924880',autoLogAppEvents:true,xfbml:true,version:'v13.0'});};
+  </script>
+  <script async="" crossorigin="anonymous" defer="" src="https://connect.facebook.net/en_US/sdk.js">
+  </script>
+  <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-SWL">
+   <div class="container-fluid">
+    <a class="navbar-brand d-md-none" href="/en.html">
+     <div class="SWLtitle">
+      SpaceWeatherLive
+      <span>
+       .com
+      </span>
+     </div>
+     <div class="SWLsubtitle">
+      Real-time auroral and solar activity
+     </div>
+    </a>
+    <button aria-controls="navbarTogglerSWL" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarTogglerSWL" data-bs-toggle="collapse" type="button">
+     <span class="navbar-toggler-icon">
+     </span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerSWL">
+     <ul class="navbar-nav me-auto">
+      <li class="nav-item p-lg-2">
+       <a class="nav-link" href="/en/news.html">
+        News
+       </a>
+      </li>
+      <li class="nav-item p-lg-2 dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown01">
+        Solar activity
+       </a>
+       <div aria-labelledby="dropdown01" class="dropdown-menu">
+        <a class="dropdown-item" href="/en/solar-activity.html">
+         Real-time Solar activity
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-flares.html">
+         Solar flares
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/sunspot-regions.html">
+         Sunspot regions
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/latest-cmes.html">
+         Latest CMEs
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/coronal-holes.html">
+         Coronal holes
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-cycle.html">
+         Solar Cycle
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/wsa-enlil.html">
+         WSA-Enlil
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <h6 class="dropdown-header">
+         Solar images
+        </h6>
+        <a class="dropdown-item" href="/en/solar-activity/solar-images/sdo.html">
+         SDO
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-images/stereo.html">
+         STEREO
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-images/proba.html">
+         PROBA-2
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-images/soho.html">
+         SOHO
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-images/goes.html">
+         GOES
+        </a>
+       </div>
+      </li>
+      <li class="nav-item p-lg-2 dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown02">
+        Auroral activity
+       </a>
+       <div aria-labelledby="dropdown02" class="dropdown-menu">
+        <a class="dropdown-item" href="/en/auroral-activity.html">
+         Auroral activity
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/real-time-auroral-activity.html">
+         Real-time auroral activity
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/kp-index.html">
+         Kp-index
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/auroral-oval.html">
+         Auroral oval
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/magnetometers.html">
+         Magnetometers
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/webcams.html">
+         Webcams
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/aurora-forecast.html">
+         Aurora forecast
+        </a>
+        <a class="dropdown-item" href="/en/moon-phases-calendar.html">
+         Moon Phases Calendar
+        </a>
+       </div>
+      </li>
+      <li class="nav-item p-lg-2 dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown03">
+        Reports
+       </a>
+       <div aria-labelledby="dropdown03" class="dropdown-menu">
+        <a class="dropdown-item" href="/en/reports/solar-activity-report.html">
+         Solar activity report
+        </a>
+        <a class="dropdown-item" href="/en/reports/sunspot-report.html">
+         Sunspot report
+        </a>
+        <a class="dropdown-item" href="/en/reports/geophysical-report.html">
+         Geophysical report
+        </a>
+        <a class="dropdown-item" href="/en/reports/noaa-swpc-alerts-watches-and-warnings.html">
+         NOAA SWPC Alerts, Watches and Warnings
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <h6 class="dropdown-header">
+         Forecast
+        </h6>
+        <a class="dropdown-item" href="/en/reports/forecast-discussion.html">
+         Forecast discussion
+        </a>
+        <a class="dropdown-item" href="/en/reports/3-day-forecast.html">
+         3-Day Forecast
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <h6 class="dropdown-header">
+         SpaceWeatherLive Reports
+        </h6>
+        <a class="dropdown-item" href="/en/news.html">
+         News
+        </a>
+       </div>
+      </li>
+      <li class="nav-item p-lg-2 dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown04">
+        Archive
+       </a>
+       <div aria-labelledby="dropdown04" class="dropdown-menu">
+        <a class="dropdown-item" href="/en/archive.html">
+         The aurora and solar activity archive
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares.html">
+         Top 50 solar flares
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/top-25-sunspot-regions.html">
+         Top 25 sunspot regions
+        </a>
+        <a class="dropdown-item" href="/en/auroral-activity/top-50-geomagnetic-storms.html">
+         Top 50 geomagnetic storms
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/top-solar-radiation-storms.html">
+         Top Solar Radiation Storms
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <h6 class="dropdown-header">
+         Solar Cycle
+        </h6>
+        <a class="dropdown-item" href="/en/solar-activity/solar-cycle.html">
+         Solar Cycle progression
+        </a>
+        <a class="dropdown-item" href="/en/solar-activity/solar-cycle/historical-solar-cycles.html">
+         Historical solar cycles
+        </a>
+       </div>
+      </li>
+      <li class="nav-item p-lg-2">
+       <a class="nav-link" href="https://community.spaceweatherlive.com">
+        Community
+       </a>
+      </li>
+      <li class="nav-item p-lg-2">
+       <a class="nav-link" href="https://community.spaceweatherlive.com/gallery/">
+        Gallery
+       </a>
+      </li>
+      <li class="nav-item p-lg-2 dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown05">
+        Help
+       </a>
+       <div aria-labelledby="dropdown05" class="dropdown-menu">
+        <a class="dropdown-item" href="/en/help.html">
+         Help
+        </a>
+        <a class="dropdown-item" href="/en/faq.html">
+         FAQ
+        </a>
+        <a class="dropdown-item" href="/en/acronyms-and-abbreviations.html">
+         Acronyms and abbreviations
+        </a>
+       </div>
+      </li>
+      <li class="nav-item p-lg-2">
+       <a class="nav-link" href="/en/links.html">
+        Links
+       </a>
+      </li>
+      <li class="nav-item p-lg-2 dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown06">
+        About
+       </a>
+       <div aria-labelledby="dropdown05" class="dropdown-menu">
+        <a class="dropdown-item" href="/en/about.html">
+         More about SpaceWeatherLive
+        </a>
+        <a class="dropdown-item" href="/en/contact-us.html">
+         Contact us
+        </a>
+        <a class="dropdown-item" href="/en/disclaimer.html">
+         Disclaimer
+        </a>
+       </div>
+      </li>
+     </ul>
+     <ul class="navbar-nav">
+      <li class="nav-item dropstart">
+       <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="dropdown07">
+        <i aria-hidden="true" class="fa-solid fa-globe">
+        </i>
+        Languages
+       </a>
+       <div aria-labelledby="dropdown07" class="dropdown-menu dropdown-menu-right">
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/en" lang="en">
+         <span class="flag flag-us">
+         </span>
+         English
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <h6 class="dropdown-header">
+         Available languages
+        </h6>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/ca.html" lang="ca">
+         <span class="flag flag-catalonia">
+         </span>
+         Catalan
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/cs.html" lang="cs">
+         <span class="flag flag-cz">
+         </span>
+         Czech
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/da.html" lang="da">
+         <span class="flag flag-dk">
+         </span>
+         Danish
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/de.html" lang="de">
+         <span class="flag flag-de">
+         </span>
+         German
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/es.html" lang="es">
+         <span class="flag flag-es">
+         </span>
+         Spanish
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/et.html" lang="et">
+         <span class="flag flag-ee">
+         </span>
+         Estonian
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/fi.html" lang="fi">
+         <span class="flag flag-fi">
+         </span>
+         Finnish
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/fr.html" lang="fr">
+         <span class="flag flag-fr">
+         </span>
+         French
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/it.html" lang="it">
+         <span class="flag flag-it">
+         </span>
+         Italian
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/lt.html" lang="lt">
+         <span class="flag flag-lt">
+         </span>
+         Lithuanian
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/nl.html" lang="nl">
+         <span class="flag flag-nl">
+         </span>
+         Dutch
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/pl.html" lang="pl">
+         <span class="flag flag-pl">
+         </span>
+         Polish
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/pt.html" lang="pt">
+         <span class="flag flag-pt">
+         </span>
+         Portuguese
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/ro.html" lang="ro">
+         <span class="flag flag-ro">
+         </span>
+         Romanian
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/ru.html" lang="ru">
+         <span class="flag flag-ru">
+         </span>
+         Russian
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/sv.html" lang="sv">
+         <span class="flag flag-se">
+         </span>
+         Swedish
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/tr.html" lang="tr">
+         <span class="flag flag-tr">
+         </span>
+         Turkish
+        </a>
+        <a class="dropdown-item" href="https://www.spaceweatherlive.com/uk.html" lang="uk">
+         <span class="flag flag-ua">
+         </span>
+         Ukrainian
+        </a>
+        <div class="dropdown-divider">
+        </div>
+        <a class="dropdown-item" href="https://translate.spaceweatherlive.com" target="_blank">
+         <i class="fa-solid fa-language">
+         </i>
+         Not your language? Help us translate!
+        </a>
+       </div>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </nav>
+  <div class="hoofding SWL_topflares">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-6">
+      <div class="SWLheader">
+       <a href="/en.html">
+        <div class="SWLtitle text-start">
+         SpaceWeatherLive
+         <span>
+          .com
+         </span>
+        </div>
+        <div class="SWLsubtitle text-start">
+         Real-time auroral and solar activity
+        </div>
+       </a>
+      </div>
+     </div>
+     <div class="col-md-6">
+      <div class="module text-end">
+       <div class="social">
+        <span>
+         <a href="https://play.google.com/store/apps/details?id=com.spaceweatherlive.app&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" title="Get the SpaceWeatherLive app on Google Play Store">
+          <i class="fa-brands fa-android fa-3x">
+          </i>
+         </a>
+        </span>
+        <span>
+         <a href="https://itunes.apple.com/be/app/spaceweatherlive/id1435501021?mt=8" title="Download the SpaceWeatherLive app on the App Store">
+          <i class="fa-brands fa-apple fa-3x">
+          </i>
+         </a>
+        </span>
+        <span>
+         <a href="https://www.twitter.com/_SpaceWeather_" title="SpaceWeatherLive on Twitter">
+          <i class="fa-brands fa-twitter fa-3x">
+          </i>
+         </a>
+        </span>
+        <span>
+         <a href="https://www.facebook.com/SpaceWeatherLive" title="SpaceWeatherLive on Facebook">
+          <i class="fa-brands fa-facebook fa-3x">
+          </i>
+         </a>
+        </span>
+        <span>
+         <a href="https://www.instagram.com/spaceweatherlive" title="SpaceWeatherLive on Instagram">
+          <i class="fa-brands fa-instagram fa-3x">
+          </i>
+         </a>
+        </span>
+        <span>
+         <a href="https://www.youtube.com/user/spaceweatherlive" title="SpaceWeatherLive on YouTube">
+          <i class="fa-brands fa-youtube fa-3x">
+          </i>
+         </a>
+        </span>
+        <span>
+         <a href="https://shop.spaceweatherlive.com" title="SpaceWeatherLive Merchandise">
+          <i class="fa-solid fa-tshirt fa-3x">
+          </i>
+         </a>
+        </span>
+       </div>
+       <div id="UTCtime">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="body" id="SWL_Page">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-8 pb-5">
+      <div class="hide-app" id="Announcement">
+      </div>
+      <div class="d-none SWL-banner">
+       <div class="banner-start">
+        <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_desktop_vrec_lhs -->
+        <div data-fuse="22927440009">
+        </div>
+       </div>
+       <div class="banner-end">
+        <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_desktop_vrec_rhs -->
+        <div data-fuse="22927440411">
+        </div>
+       </div>
+      </div>
+      <div class="banner-top">
+       <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_desktop_header -->
+       <div data-fuse="22927440393">
+       </div>
+       <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_mobile_mrec_1 -->
+       <div data-fuse="22927440420">
+       </div>
+      </div>
+      <h3>
+       Top 50 solar flares
+      </h3>
+      <p>
+       On this page you will find an overview of the strongest solar flares since June 1996 together with links to more information in our archive and a video (if available) of the event. This page is updated daily.
+      </p>
+      <ul class="nav nav-tabs">
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">
+         Solar Cycle
+        </a>
+        <div class="dropdown-menu">
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/solar-cycle/23.html">
+          SC23
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/solar-cycle/24.html">
+          SC24
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/solar-cycle/25.html">
+          SC25
+         </a>
+        </div>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button">
+         year
+        </a>
+        <div class="dropdown-menu">
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/1996.html">
+          1996
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/1997.html">
+          1997
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/1998.html">
+          1998
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/1999.html">
+          1999
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2000.html">
+          2000
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2001.html">
+          2001
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2002.html">
+          2002
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2003.html">
+          2003
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2004.html">
+          2004
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2005.html">
+          2005
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2006.html">
+          2006
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2007.html">
+          2007
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2008.html">
+          2008
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2009.html">
+          2009
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2010.html">
+          2010
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2011.html">
+          2011
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2012.html">
+          2012
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2013.html">
+          2013
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2014.html">
+          2014
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2015.html">
+          2015
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2016.html">
+          2016
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2017.html">
+          2017
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2018.html">
+          2018
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2019.html">
+          2019
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2020.html">
+          2020
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2021.html">
+          2021
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2022.html">
+          2022
+         </a>
+         <a class="dropdown-item" href="/en/solar-activity/top-50-solar-flares/year/2023.html">
+          2023
+         </a>
+        </div>
+       </li>
+      </ul>
+      <div class="table-responsive-md">
+       <table class="table table-striped">
+        <thead>
+         <tr>
+          <th>
+          </th>
+          <th>
+          </th>
+          <th>
+          </th>
+          <th>
+           Region
+          </th>
+          <th>
+           Start
+          </th>
+          <th>
+           Maximum
+          </th>
+          <th>
+           End
+          </th>
+          <th>
+          </th>
+         </tr>
+        </thead>
+        <tbody>
+         <tr>
+          <td>
+           1
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X28+
+           </span>
+          </td>
+          <td>
+           2003/11/04
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10486.html">
+            0486
+           </a>
+          </td>
+          <td>
+           19:29
+          </td>
+          <td>
+           19:53
+          </td>
+          <td>
+           20:06
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200311041953X28.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/11/04/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           2
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X20+
+           </span>
+          </td>
+          <td>
+           2001/04/02
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/9393.html">
+            9393
+           </a>
+          </td>
+          <td>
+           21:32
+          </td>
+          <td>
+           21:51
+          </td>
+          <td>
+           22:03
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200104022151X20.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/04/02/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           3
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X17.2+
+           </span>
+          </td>
+          <td>
+           2003/10/28
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10486.html">
+            0486
+           </a>
+          </td>
+          <td>
+           09:51
+          </td>
+          <td>
+           11:10
+          </td>
+          <td>
+           11:24
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200310281110X17.2.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/10/28/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           4
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X17+
+           </span>
+          </td>
+          <td>
+           2005/09/07
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/10808.html">
+            0808
+           </a>
+          </td>
+          <td>
+           17:17
+          </td>
+          <td>
+           17:40
+          </td>
+          <td>
+           18:03
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200509071740X17.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/09/07/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           5
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X14.4
+           </span>
+          </td>
+          <td>
+           2001/04/15
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/9415.html">
+            9415
+           </a>
+          </td>
+          <td>
+           13:19
+          </td>
+          <td>
+           13:50
+          </td>
+          <td>
+           13:55
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200104151350X14.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/04/15/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           6
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X10
+           </span>
+          </td>
+          <td>
+           2003/10/29
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10486.html">
+            0486
+           </a>
+          </td>
+          <td>
+           20:37
+          </td>
+          <td>
+           20:49
+          </td>
+          <td>
+           21:01
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200310292049X10.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/10/29/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           7
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X9.4
+           </span>
+          </td>
+          <td>
+           1997/11/06
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/8100.html">
+            8100
+           </a>
+          </td>
+          <td>
+           11:49
+          </td>
+          <td>
+           11:55
+          </td>
+          <td>
+           12:01
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/1997/Flares/199711061155X9.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1997/11/06/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           8
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X9.3
+           </span>
+          </td>
+          <td>
+           2017/09/06
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/12673.html">
+            2673
+           </a>
+          </td>
+          <td>
+           11:53
+          </td>
+          <td>
+           12:02
+          </td>
+          <td>
+           12:10
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2017/Flares/201709061202X9.3.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2017/09/06/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           9
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X9
+           </span>
+          </td>
+          <td>
+           2006/12/05
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/10930.html">
+            0930
+           </a>
+          </td>
+          <td>
+           10:18
+          </td>
+          <td>
+           10:35
+          </td>
+          <td>
+           10:45
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2006/Flares/200612051035X9.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2006/12/05/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           10
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X8.3
+           </span>
+          </td>
+          <td>
+           2003/11/02
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10486.html">
+            0486
+           </a>
+          </td>
+          <td>
+           17:03
+          </td>
+          <td>
+           17:25
+          </td>
+          <td>
+           17:39
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200311021725X8.3.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/11/02/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           11
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X8.2
+           </span>
+          </td>
+          <td>
+           2017/09/10
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/12673.html">
+            2673
+           </a>
+          </td>
+          <td>
+           15:35
+          </td>
+          <td>
+           16:06
+          </td>
+          <td>
+           16:31
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2017/Flares/201709101606X8.2.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2017/09/10/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           12
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X7.1
+           </span>
+          </td>
+          <td>
+           2005/01/20
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBD" href="/en/solar-activity/region/10720.html">
+            0720
+           </a>
+          </td>
+          <td>
+           06:36
+          </td>
+          <td>
+           07:01
+          </td>
+          <td>
+           07:26
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200501200701X7.1.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/01/20/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           13
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X6.9
+           </span>
+          </td>
+          <td>
+           2011/08/09
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/11263.html">
+            1263
+           </a>
+          </td>
+          <td>
+           07:48
+          </td>
+          <td>
+           08:05
+          </td>
+          <td>
+           08:08
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2011/Flares/201108090805X6.9.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2011/08/09/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           14
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X6.5
+           </span>
+          </td>
+          <td>
+           2006/12/06
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionB" href="/en/solar-activity/region/10930.html">
+            0930
+           </a>
+          </td>
+          <td>
+           18:29
+          </td>
+          <td>
+           18:47
+          </td>
+          <td>
+           19:00
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2006/Flares/200612061847X6.5.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2006/12/06/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           15
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X6.2
+           </span>
+          </td>
+          <td>
+           2005/09/09
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/10808.html">
+            0808
+           </a>
+          </td>
+          <td>
+           19:13
+          </td>
+          <td>
+           20:04
+          </td>
+          <td>
+           20:36
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200509092004X6.2.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/09/09/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           16
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X6.2
+           </span>
+          </td>
+          <td>
+           2001/12/13
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/9733.html">
+            9733
+           </a>
+          </td>
+          <td>
+           14:20
+          </td>
+          <td>
+           14:30
+          </td>
+          <td>
+           14:35
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200112131430X6.2.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/12/13/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           17
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X5.7
+           </span>
+          </td>
+          <td>
+           2000/07/14
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/9077.html">
+            9077
+           </a>
+          </td>
+          <td>
+           10:03
+          </td>
+          <td>
+           10:24
+          </td>
+          <td>
+           10:43
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2000/Flares/200007141024X5.7.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2000/07/14/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           18
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X5.6
+           </span>
+          </td>
+          <td>
+           2001/04/06
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/9415.html">
+            9415
+           </a>
+          </td>
+          <td>
+           19:10
+          </td>
+          <td>
+           19:21
+          </td>
+          <td>
+           19:31
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200104061921X5.6.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/04/06/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           19
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X5.4
+           </span>
+          </td>
+          <td>
+           2012/03/07
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/11429.html">
+            1429
+           </a>
+          </td>
+          <td>
+           00:02
+          </td>
+          <td>
+           00:24
+          </td>
+          <td>
+           00:40
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2012/Flares/201203070024X5.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2012/03/07/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           20
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X5.4
+           </span>
+          </td>
+          <td>
+           2005/09/08
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionA" href="/en/solar-activity/region/10808.html">
+            0808
+           </a>
+          </td>
+          <td>
+           20:52
+          </td>
+          <td>
+           21:06
+          </td>
+          <td>
+           21:17
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200509082106X5.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/09/08/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           21
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X5.4
+           </span>
+          </td>
+          <td>
+           2003/10/23
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionA" href="/en/solar-activity/region/10486.html">
+            0486
+           </a>
+          </td>
+          <td>
+           08:19
+          </td>
+          <td>
+           08:35
+          </td>
+          <td>
+           08:49
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200310230835X5.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/10/23/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           22
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X5.3
+           </span>
+          </td>
+          <td>
+           2001/08/25
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/9591.html">
+            9591
+           </a>
+          </td>
+          <td>
+           16:23
+          </td>
+          <td>
+           16:45
+          </td>
+          <td>
+           17:04
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200108251645X5.3.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/08/25/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           23
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X4.9
+           </span>
+          </td>
+          <td>
+           2014/02/25
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionA" href="/en/solar-activity/region/11990.html">
+            1990
+           </a>
+          </td>
+          <td>
+           00:39
+          </td>
+          <td>
+           00:49
+          </td>
+          <td>
+           01:03
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2014/Flares/201402250049X4.9.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2014/02/25/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           24
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X4.9
+           </span>
+          </td>
+          <td>
+           1998/08/18
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/8307.html">
+            8307
+           </a>
+          </td>
+          <td>
+           22:10
+          </td>
+          <td>
+           22:19
+          </td>
+          <td>
+           22:28
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1998/08/18/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           25
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X4.8
+           </span>
+          </td>
+          <td>
+           2002/07/23
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionB" href="/en/solar-activity/region/10039.html">
+            0039
+           </a>
+          </td>
+          <td>
+           00:18
+          </td>
+          <td>
+           00:35
+          </td>
+          <td>
+           00:47
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2002/Flares/200207230035X4.8.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2002/07/23/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           26
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X4
+           </span>
+          </td>
+          <td>
+           2000/11/26
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/9236.html">
+            9236
+           </a>
+          </td>
+          <td>
+           16:34
+          </td>
+          <td>
+           16:48
+          </td>
+          <td>
+           16:56
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2000/Flares/200011261648X4.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2000/11/26/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           27
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.9
+           </span>
+          </td>
+          <td>
+           2003/11/03
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10488.html">
+            0488
+           </a>
+          </td>
+          <td>
+           09:43
+          </td>
+          <td>
+           09:55
+          </td>
+          <td>
+           10:19
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200311030955X3.9.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/11/03/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           28
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.9
+           </span>
+          </td>
+          <td>
+           1998/08/19
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/8307.html">
+            8307
+           </a>
+          </td>
+          <td>
+           21:35
+          </td>
+          <td>
+           21:45
+          </td>
+          <td>
+           21:50
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1998/08/19/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           29
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.8
+           </span>
+          </td>
+          <td>
+           2005/01/17
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBD" href="/en/solar-activity/region/10720.html">
+            0720
+           </a>
+          </td>
+          <td>
+           06:59
+          </td>
+          <td>
+           09:52
+          </td>
+          <td>
+           10:07
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200501170952X3.8.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/01/17/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           30
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.7
+           </span>
+          </td>
+          <td>
+           1998/11/22
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionB" href="/en/solar-activity/region/8384.html">
+            8384
+           </a>
+          </td>
+          <td>
+           06:30
+          </td>
+          <td>
+           06:42
+          </td>
+          <td>
+           06:49
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/1998/Flares/199811220642X3.7.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1998/11/22/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           31
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.6
+           </span>
+          </td>
+          <td>
+           2005/09/09
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/10808.html">
+            0808
+           </a>
+          </td>
+          <td>
+           09:42
+          </td>
+          <td>
+           09:59
+          </td>
+          <td>
+           10:08
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200509090959X3.6.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/09/09/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           32
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.6
+           </span>
+          </td>
+          <td>
+           2004/07/16
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10649.html">
+            0649
+           </a>
+          </td>
+          <td>
+           13:49
+          </td>
+          <td>
+           13:55
+          </td>
+          <td>
+           14:01
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2004/Flares/200407161355X3.6.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2004/07/16/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           33
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.6
+           </span>
+          </td>
+          <td>
+           2003/05/28
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10365.html">
+            0365
+           </a>
+          </td>
+          <td>
+           00:17
+          </td>
+          <td>
+           00:27
+          </td>
+          <td>
+           00:39
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200305280027X3.6.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/05/28/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           34
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.4
+           </span>
+          </td>
+          <td>
+           2006/12/13
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10930.html">
+            0930
+           </a>
+          </td>
+          <td>
+           02:14
+          </td>
+          <td>
+           02:40
+          </td>
+          <td>
+           02:57
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2006/Flares/200612130240X3.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2006/12/13/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           35
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.4
+           </span>
+          </td>
+          <td>
+           2001/12/28
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/9767.html">
+            9767
+           </a>
+          </td>
+          <td>
+           20:02
+          </td>
+          <td>
+           20:45
+          </td>
+          <td>
+           21:32
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200112282045X3.4.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/12/28/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           36
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.3
+           </span>
+          </td>
+          <td>
+           2013/11/05
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/11890.html">
+            1890
+           </a>
+          </td>
+          <td>
+           22:07
+          </td>
+          <td>
+           22:12
+          </td>
+          <td>
+           22:15
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2013/Flares/201311052212X3.3.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2013/11/05/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           37
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.3
+           </span>
+          </td>
+          <td>
+           2002/07/20
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/10039.html">
+            0039
+           </a>
+          </td>
+          <td>
+           21:04
+          </td>
+          <td>
+           21:30
+          </td>
+          <td>
+           21:54
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2002/Flares/200207202130X3.3.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2002/07/20/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           38
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.3
+           </span>
+          </td>
+          <td>
+           1998/11/28
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/8395.html">
+            8395
+           </a>
+          </td>
+          <td>
+           04:54
+          </td>
+          <td>
+           05:52
+          </td>
+          <td>
+           06:13
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/1998/Flares/199811280552X3.3.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1998/11/28/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           39
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.2
+           </span>
+          </td>
+          <td>
+           2013/05/14
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/11748.html">
+            1748
+           </a>
+          </td>
+          <td>
+           00:00
+          </td>
+          <td>
+           01:11
+          </td>
+          <td>
+           01:20
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2013/Flares/201305140111X3.2.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2013/05/14/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           40
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.1
+           </span>
+          </td>
+          <td>
+           2014/10/24
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/12192.html">
+            2192
+           </a>
+          </td>
+          <td>
+           21:07
+          </td>
+          <td>
+           21:41
+          </td>
+          <td>
+           22:13
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2014/Flares/201410242141X3.1.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2014/10/24/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           41
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3.1
+           </span>
+          </td>
+          <td>
+           2002/08/24
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10069.html">
+            0069
+           </a>
+          </td>
+          <td>
+           00:49
+          </td>
+          <td>
+           01:12
+          </td>
+          <td>
+           01:31
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2002/Flares/200208240112X3.1.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2002/08/24/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           42
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X3
+           </span>
+          </td>
+          <td>
+           2002/07/15
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10030.html">
+            0030
+           </a>
+          </td>
+          <td>
+           19:59
+          </td>
+          <td>
+           20:08
+          </td>
+          <td>
+           20:14
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2002/Flares/200207152008X3.0.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2002/07/15/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           43
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.8
+           </span>
+          </td>
+          <td>
+           2013/05/13
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/11748.html">
+            1748
+           </a>
+          </td>
+          <td>
+           15:48
+          </td>
+          <td>
+           16:05
+          </td>
+          <td>
+           16:16
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2013/Flares/201305131605X2.8.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2013/05/13/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           44
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.8
+           </span>
+          </td>
+          <td>
+           2001/12/11
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBG" href="/en/solar-activity/region/9733.html">
+            9733
+           </a>
+          </td>
+          <td>
+           07:58
+          </td>
+          <td>
+           08:08
+          </td>
+          <td>
+           08:14
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200112110808X2.8.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/12/11/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           45
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.8
+           </span>
+          </td>
+          <td>
+           1998/08/18
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/8307.html">
+            8307
+           </a>
+          </td>
+          <td>
+           08:14
+          </td>
+          <td>
+           08:24
+          </td>
+          <td>
+           08:32
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1998/08/18/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           46
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.7
+           </span>
+          </td>
+          <td>
+           2015/05/05
+          </td>
+          <td>
+           <a class="btn btn-SWL Region" href="/en/solar-activity/region/12339.html">
+            2339
+           </a>
+          </td>
+          <td>
+           22:05
+          </td>
+          <td>
+           22:11
+          </td>
+          <td>
+           22:15
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2015/Flares/201505052211X2.7.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2015/05/05/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           47
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.7
+           </span>
+          </td>
+          <td>
+           2003/11/03
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/10488.html">
+            0488
+           </a>
+          </td>
+          <td>
+           01:09
+          </td>
+          <td>
+           01:30
+          </td>
+          <td>
+           01:45
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2003/Flares/200311030130X2.7.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2003/11/03/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           48
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.7
+           </span>
+          </td>
+          <td>
+           1998/05/06
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionB" href="/en/solar-activity/region/8210.html">
+            8210
+           </a>
+          </td>
+          <td>
+           07:58
+          </td>
+          <td>
+           08:09
+          </td>
+          <td>
+           08:20
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/1998/Flares/199805060809X2.7.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/1998/05/06/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           49
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.6
+           </span>
+          </td>
+          <td>
+           2005/01/15
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBD" href="/en/solar-activity/region/10720.html">
+            0720
+           </a>
+          </td>
+          <td>
+           22:25
+          </td>
+          <td>
+           23:02
+          </td>
+          <td>
+           23:31
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2005/Flares/200501152302X2.6.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2005/01/15/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td>
+           50
+          </td>
+          <td>
+           <span class="flare_small Xclass">
+            X2.6
+           </span>
+          </td>
+          <td>
+           2001/09/24
+          </td>
+          <td>
+           <a class="btn btn-SWL RegionBGD" href="/en/solar-activity/region/9632.html">
+            9632
+           </a>
+          </td>
+          <td>
+           09:32
+          </td>
+          <td>
+           10:38
+          </td>
+          <td>
+           11:09
+          </td>
+          <td>
+           <div class="btn-group">
+            <a class="btn btn-xs btn-outline-dark" data-fancybox="" href="/images/Archief/2001/Flares/200109241038X2.6.mp4">
+             <i aria-hidden="true" class="fa-regular fa-play-circle">
+             </i>
+             Movie
+            </a>
+            <a class="btn btn-xs btn-outline-dark" href="/en/archive/2001/09/24/xray.html">
+             View archive
+            </a>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div class="row">
+       <div class="col-md-6">
+        <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_desktop_mrec_1 -->
+        <div class="SWL_hideonmobile" data-fuse="22927440396">
+        </div>
+        <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_mobile_mrec_2 -->
+        <div data-fuse="22927440423">
+        </div>
+       </div>
+       <div class="col-md-6">
+        <!-- GAM 71161633/SWLCM_spaceweatherlive/swl_desktop_mrec_2 -->
+        <div class="SWL_hideonmobile" data-fuse="22927440399">
+        </div>
+       </div>
+      </div>
+      <div class="float-end">
+       <a href="#SWL_Page" id="back-top">
+        Back to top
+        <i aria-hidden="true" class="fa-solid fa-chevron-up">
+        </i>
+       </a>
+      </div>
+     </div>
+     <div class="col-md-4">
+      <div id="ActiveWarnings">
+      </div>
+      <div class="card bg-light my-2">
+       <h3 class="card-header text-center">
+        Latest news
+       </h3>
+       <div class="carousel slide" data-bs-ride="carousel" id="carousel-news">
+        <div class="carousel-indicators">
+         <button class="active" data-bs-slide-to="0" data-bs-target="#carousel-news" type="button">
+         </button>
+         <button data-bs-slide-to="1" data-bs-target="#carousel-news" type="button">
+         </button>
+         <button data-bs-slide-to="2" data-bs-target="#carousel-news" type="button">
+         </button>
+        </div>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <a href="/en/news/view/507/20230902-stormy-space-weather-ahead.html">
+           <img alt="" class="img-fluid d-block w-100" src="/images/news/507-thumb.jpg"/>
+          </a>
+          <div class="carousel-caption d-none d-md-block">
+           <div>
+            Saturday, 2 September 2023
+           </div>
+           <h4>
+            <a href="/en/news/view/507/20230902-stormy-space-weather-ahead.html">
+             Stormy space weather ahead
+            </a>
+           </h4>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <a href="/en/news/view/506/20230729-s2-solar-raditation-storm-earth-directed-cme.html">
+           <img alt="" class="img-fluid d-block w-100" src="/images/news/506-thumb.jpg"/>
+          </a>
+          <div class="carousel-caption d-none d-md-block">
+           <div>
+            Saturday, 29 July 2023
+           </div>
+           <h4>
+            <a href="/en/news/view/506/20230729-s2-solar-raditation-storm-earth-directed-cme.html">
+             S2 solar raditation storm, Earth-directed CME
+            </a>
+           </h4>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <a href="/en/news/view/505/20230718-m5-7-solar-flare.html">
+           <img alt="" class="img-fluid d-block w-100" src="/images/news/505-thumb.jpg"/>
+          </a>
+          <div class="carousel-caption d-none d-md-block">
+           <div>
+            Tuesday, 18 July 2023
+           </div>
+           <h4>
+            <a href="/en/news/view/505/20230718-m5-7-solar-flare.html">
+             M5.7 solar flare
+            </a>
+           </h4>
+          </div>
+         </div>
+        </div>
+        <button class="carousel-control-prev" data-bs-slide="prev" data-bs-target="#carousel-news" type="button">
+         <span aria-hidden="true" class="carousel-control-prev-icon">
+         </span>
+         <span class="visually-hidden">
+          Previous
+         </span>
+        </button>
+        <button class="carousel-control-next" data-bs-slide="next" data-bs-target="#carousel-news" type="button">
+         <span aria-hidden="true" class="carousel-control-next-icon">
+         </span>
+         <span class="visually-hidden">
+          Next
+         </span>
+        </button>
+       </div>
+       <div>
+        <a class="btn btn-outline-dark w-100" href="/en/news.html">
+         More news
+        </a>
+       </div>
+      </div>
+      <div class="card bg-light my-2">
+       <h3 class="card-header text-center">
+        Latest forum messages
+       </h3>
+       <div class="list-group list-group-flush">
+        <a class="list-group-item list-group-item-action" href="https://community.spaceweatherlive.com/topic/2913-in-relation-to-the-flare-database-update-and-cycle-25/&amp;do=getNewComment">
+         In relation to the flare database update (and Cycle 25)
+         <span class="badge bg-secondary float-end">
+          <i class="fa-regular fa-comments">
+          </i>
+          23
+         </span>
+        </a>
+        <a class="list-group-item list-group-item-action" href="https://community.spaceweatherlive.com/topic/2384-incoming-regions/&amp;do=getNewComment">
+         Incoming Regions
+         <span class="badge bg-secondary float-end">
+          <i class="fa-regular fa-comments">
+          </i>
+          1079
+         </span>
+        </a>
+        <a class="list-group-item list-group-item-action" href="https://community.spaceweatherlive.com/topic/2914-why-does-this-noise-appear-on-these-sdo-images/&amp;do=getNewComment">
+         why does this noise appear on these sdo images?
+         <span class="badge bg-secondary float-end">
+          <i class="fa-regular fa-comments">
+          </i>
+          2
+         </span>
+        </a>
+        <a class="list-group-item list-group-item-action" href="https://community.spaceweatherlive.com/topic/2912-ar-3421/&amp;do=getNewComment">
+         AR 3421
+         <span class="badge bg-secondary float-end">
+          <i class="fa-regular fa-comments">
+          </i>
+          8
+         </span>
+        </a>
+        <a class="list-group-item list-group-item-action" href="https://community.spaceweatherlive.com/topic/2816-geomagnetic-activity/&amp;do=getNewComment">
+         geomagnetic activity
+         <span class="badge bg-secondary float-end">
+          <i class="fa-regular fa-comments">
+          </i>
+          471
+         </span>
+        </a>
+       </div>
+       <a class="btn btn-outline-dark w-100" href="https://community.spaceweatherlive.com">
+        More topics
+       </a>
+      </div>
+      <div class="card bg-light my-2">
+       <h3 class="card-header text-center">
+        Support SpaceWeatherLive.com!
+       </h3>
+       <div class="card-body">
+        <p class="text-justify">
+         A lot of people come to SpaceWeatherLive to follow the Sun's activity or if there is aurora to be seen, but with more traffic comes higher server costs. Consider a donation if you enjoy SpaceWeatherLive so we can keep the website online!
+        </p>
+        <div class="progress mb-2">
+         <div aria-valuemax="100" aria-valuemin="0" aria-valuenow="75" class="progress-bar" role="progressbar" style="width: 75%;min-width: 2em;">
+          75%
+         </div>
+        </div>
+       </div>
+       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input name="cmd" type="hidden" value="_s-xclick"/>
+        <input name="hosted_button_id" type="hidden" value="XVFBBXTRMJZF4"/>
+        <button class="btn btn-outline-primary w-100" type="submit">
+         Donate
+         <i class="fab fa-cc-paypal fa-lg">
+         </i>
+        </button>
+       </form>
+       <div class="card-body text-center">
+        <img alt="Support SpaceWeatherLive with our merchandise" src="/images/Merchandise.png">
+        </img>
+       </div>
+       <a class="btn btn-xl btn-outline-primary w-100" href="https://shop.spaceweatherlive.com" target="_blank">
+        <i aria-hidden="true" class="fas fa-tshirt">
+        </i>
+        <b>
+         Check out our merchandise
+        </b>
+       </a>
+      </div>
+      <div class="card bg-light">
+       <h3 class="card-header text-center">
+        Latest alerts
+       </h3>
+       <div class="card-body">
+        <div style="height: 200px;overflow: auto;">
+         <div id="modPreviousAlerts">
+         </div>
+        </div>
+       </div>
+       <a class="btn btn-xl btn-outline-primary w-100" href="/en/aurora-alerts.html">
+        <i aria-hidden="true" class="fa-solid fa-bell">
+        </i>
+        <b>
+         Get instant alerts!
+        </b>
+       </a>
+      </div>
+      <div class="card bg-light my-2">
+       <h3 class="card-header text-center">
+        Space weather facts
+       </h3>
+       <div class="card-body">
+        <table class="table table-sm">
+         <tbody>
+          <tr>
+           <td>
+            Last X-flare
+           </td>
+           <td>
+            <a href="/en/archive/2023/08/07/xray.html">
+             2023/08/07
+            </a>
+           </td>
+           <td>
+            <span class="flare_small Xclass">
+             X1.51
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Last M-flare
+           </td>
+           <td>
+            <a href="/en/archive/2023/09/05/xray.html">
+             2023/09/05
+            </a>
+           </td>
+           <td>
+            <span class="flare_small Mclass">
+             M1.0
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Last geomagnetic storm
+           </td>
+           <td>
+            <a href="/en/archive/2023/09/03.html">
+             2023/09/03
+            </a>
+           </td>
+           <td>
+            <span class="Kp G2">
+             Kp6-
+            </span>
+            (G2)
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <table class="table table-sm">
+         <thead>
+          <tr>
+           <th colspan="2">
+            Spotless days
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            Last spotless day
+           </td>
+           <td>
+            2022/06/08
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <table class="table table-sm">
+         <thead>
+          <tr>
+           <th colspan="2">
+            Monthly mean Sunspot Number
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            July 2023
+           </td>
+           <td>
+            159.1
+            <span class="badge bg-warning">
+             <i aria-hidden="true" class="fa-solid fa-arrow-down">
+             </i>
+             -4.3
+            </span>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <h4>
+         This day in history*
+        </h4>
+        <div class="row">
+         <div class="col-md-6">
+          <table class="table table-sm table-striped">
+           <thead>
+            <tr>
+             <th colspan="3">
+              Solar flares
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td>
+              1
+             </td>
+             <td>
+              <a href="/en/archive/2017/09/06/xray.html">
+               2017
+              </a>
+             </td>
+             <td>
+              <span class="flare_small Xclass">
+               X9.3
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              2
+             </td>
+             <td>
+              <a href="/en/archive/2017/09/06/xray.html">
+               2017
+              </a>
+             </td>
+             <td>
+              <span class="flare_small Xclass">
+               X2.2
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              3
+             </td>
+             <td>
+              <a href="/en/archive/2011/09/06/xray.html">
+               2011
+              </a>
+             </td>
+             <td>
+              <span class="flare_small Xclass">
+               X2.1
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              4
+             </td>
+             <td>
+              <a href="/en/archive/2011/09/06/xray.html">
+               2011
+              </a>
+             </td>
+             <td>
+              <span class="flare_small Mclass">
+               M5.3
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              5
+             </td>
+             <td>
+              <a href="/en/archive/2017/09/06/xray.html">
+               2017
+              </a>
+             </td>
+             <td>
+              <span class="flare_small Mclass">
+               M2.6
+              </span>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+         <div class="col-md-6">
+          <table class="table table-sm table-striped">
+           <thead>
+            <tr>
+             <th>
+             </th>
+             <th>
+             </th>
+             <th>
+              Ap
+             </th>
+             <th>
+              G
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td>
+              1
+             </td>
+             <td>
+              1995
+             </td>
+             <td>
+              23
+             </td>
+             <td>
+              <span class="Kp G2">
+               G2
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              2
+             </td>
+             <td>
+              1994
+             </td>
+             <td>
+              14
+             </td>
+             <td>
+              <span class="Kp G1">
+               G1
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              3
+             </td>
+             <td>
+              <a href="/en/archive/2012/09/06.html">
+               2012
+              </a>
+             </td>
+             <td>
+              12
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              4
+             </td>
+             <td>
+              <a href="/en/archive/2022/09/06.html">
+               2022
+              </a>
+             </td>
+             <td>
+              19
+             </td>
+             <td>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              5
+             </td>
+             <td>
+              <a href="/en/archive/2015/09/06.html">
+               2015
+              </a>
+             </td>
+             <td>
+              13
+             </td>
+             <td>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <div class="text-muted text-end">
+           *since 1994
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="card bg-light my-2 SWL_hideonmobile">
+       <h3 class="card-header text-center">
+        Social networks
+       </h3>
+       <div class="fb-page w-100" data-adapt-container-width="true" data-hide-cover="false" data-href="https://www.facebook.com/SpaceWeatherLive" data-lazy="true" data-show-facepile="false" data-small-header="true" data-tabs="timeline" data-width="500">
+        <blockquote cite="https://www.facebook.com/SpaceWeatherLive" class="fb-xfbml-parse-ignore">
+         <a href="https://www.facebook.com/SpaceWeatherLive">
+          SpaceWeatherLive
+         </a>
+        </blockquote>
+       </div>
+      </div>
+      <div data-fuse="22927440414">
+      </div>
+      <div data-fuse="22927440417">
+      </div>
+      <div data-fuse="22927440015">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer class="footer">
+   <div class="container">
+    <div class="row">
+     <div class="col">
+      <div class="row SWL_hideonmobile">
+       <div class="col-md-4">
+        <h3>
+         About Parsec vzw
+        </h3>
+        <p>
+         Parsec vzw is a non-profit organization from Belgium which consists of several websites about Astronomy, Space, Space Weather, aurora and related subjects. Our organization promotes these scientific branches onto the world wide web with websites as this one. Give your support for our organization by making a donation.
+        </p>
+       </div>
+       <div class="col-md-4">
+        <h3>
+         Our websites
+        </h3>
+        <ul>
+         <li>
+          <a href="https://www.spaceweatherlive.com">
+           SpaceWeatherLive
+          </a>
+         </li>
+         <li>
+          <a href="https://www.futurespaceflight.com" target="_blank">
+           FutureSpaceFlight
+          </a>
+         </li>
+         <li>
+          <a href="https://www.spacepage.be" target="_blank">
+           Spacepage
+          </a>
+         </li>
+         <li>
+          <a href="https://www.belgiuminspace.be" target="_blank">
+           Belgium in Space
+          </a>
+         </li>
+         <li>
+          <a href="https://www.starnights.be" target="_blank">
+           StarNights
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="col-md-4">
+        <h3>
+         About
+        </h3>
+        <p>
+         SpaceWeatherLive.com is a near live website where you can follow space weather from the Sun to Earth and know exactly when you can see aurora.
+        </p>
+        <p>
+         <a class="btn btn-outline-light btn-sm" href="/en/about.html">
+          More info...
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="text-center footer-bar">
+       Copyright © 2003-2023 SpaceWeatherLive © All rights reserved - Part of Parsec vzw
+       <br/>
+       <a href="/en/disclaimer.html">
+        Disclaimer
+       </a>
+       -
+       <a href="/en/privacy-policy.html">
+        Privacy Policy
+       </a>
+       <div data-fuse-privacy-tool="">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script>
+   document.addEventListener('DOMContentLoaded', function(){
+                function warnings_requestData() {
+                    if(document.getElementById('ActiveWarnings')!==null){
+                        const xhr = new XMLHttpRequest();
+                        xhr.open('GET', '/includes/live-data.php?object=Warnings&lang=EN');
+                        xhr.onload = function() {
+                            if(xhr.status === 200) {
+                                const jsonobject = JSON.parse(xhr.responseText);
+                                if("Warnings" in jsonobject){document.getElementById('ActiveWarnings').innerHTML=jsonobject.Warnings;}
+                                if("Announcement" in jsonobject){
+                                    if(document.getElementById('ActiveAnnouncement')!==null){document.getElementById('ActiveAnnouncement').innerHTML=jsonobject.Announcement;}
+                                    if(document.getElementById('Announcement')!==null){document.getElementById('Announcement').innerHTML=jsonobject.Announcement;}
+                                }
+                                if("PreviousAlerts" in jsonobject){
+                                    if(document.getElementById('modPreviousAlerts')!==null){document.getElementById('modPreviousAlerts').innerHTML=jsonobject.PreviousAlerts;}
+                                }
+                            }
+                        };
+                        xhr.send();
+                    }
+                                    }
+                warnings_requestData();
+                setInterval(function(){warnings_requestData()}, 300000);
+            });
+  </script>
+  <link href="/manifest.json" rel="manifest"/>
+  <script async="" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js">
+  </script>
+  <script>
+   window.OneSignal = window.OneSignal || [];
+            OneSignal.push(function() {
+                OneSignal.init({
+                    appId: "f7e23cab-977f-419b-ab27-268baafb97c2",
+                    safari_web_id: 'web.onesignal.auto.548f76b5-1495-4e31-bc8e-b1b76d8ec8fd',
+                    autoRegister: false,
+                    autoResubscribe: true,
+                    notifyButton: {
+                        enable: true,
+                        showCredit: false,
+                        prenotify: true,
+                        text: {
+                            'dialog.main.title': 'Manage SpaceWeatherLive Browser Notifications',
+                            'tip.state.unsubscribed': 'Subscribe to SpaceWeatherLive notifications',
+                            'tip.state.subscribed': 'You’re subscribed to SpaceWeatherLive notifications'
+                        }
+                    },
+                    welcomeNotification: {
+                        "title": 'SpaceWeatherLive alerts',
+                        "message": 'Thanks for subscribing to our service!'
+                    },
+                    promptOptions: {
+                        showCredit: false
+                    }
+                });
+            });
+  </script>
+ </body>
+</html>
